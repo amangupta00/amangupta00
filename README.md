@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @amangupta00
+- 👋 Hi, I’m Aman Gupta
+- ✨ I'm currently persuing Bachelor in Engineering from NSIT, Delhi.
 - 👀 I’m interested in Software Development and programming
 - 🌱 I’m currently doing Competative Coding on various platforms
 
