@@ -8,9 +8,8 @@
 amangupta00/amangupta00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
  
- <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Heyo Guys, I'm Aman! </h1>
+ <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="55px"> Heyo Guys, I'm Aman! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
