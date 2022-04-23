@@ -55,8 +55,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/figma--v1.png" title="Figma"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Cloud Firebase"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Google Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/cloud-firestore.png" title="Cloud Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/google-firebase-console.png" title="Google Firebase"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/arduino.png" title="Arduino"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/redis.png" title="Redis"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/docker.png" title="Docker"/></code>
