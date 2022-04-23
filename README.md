@@ -34,10 +34,12 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 </p>
 
 
-<!-- ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Frameworks I code with:
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/spring-logo.png" title="Spring-Boot"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
@@ -48,12 +50,21 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/figma--v1.png" title="Figma"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Cloud Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Google Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/arduino.png" title="Arduino"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/redis.png" title="Redis"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/docker.png" title="Docker"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/ibis-paint-x.png" title="IbisPaintX"/></code>
 
 
 
+<!-- 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profiles!
 
 <code> <a href="https://www.codechef.com/users/saumyasingh203/"><img width="40px" src="https://img.icons8.com/color/144/000000/codechef.png" title="CodeChef Profile"/></a></code>
@@ -71,5 +82,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><a href="https://www.linkedin.com/in/aman-gupta-00/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/themaker007/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:amangupta1029@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://linktr.ee/AmanGupta0"><img width="45px" src="https://img.icons8.com/color/2x/linktree.png" title="Linktree"/></a></code>
+
 
 <br>
