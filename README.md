@@ -16,7 +16,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- Incoming SDE at Jupiter Money
+- SDE at Jupiter Money
 - Former *SDE* intern at **Paytm** where I was a part of their Payment Gateway Team.
 - Served as the *SDE and CO-Founder* for **Intoxicat** which is a venture recognised by NASSCOM Foundation.
 - Former *Innovator* in **multiple Projects** for the IOT, Web and App based solutions.
