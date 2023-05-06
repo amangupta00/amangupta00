@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
  
  <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="55px"> Heyo Guys, I'm Aman! </h1>
 
-I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
+I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I completed my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- SDE at Jupiter Money
-- Former *SDE* intern at **Paytm** where I was a part of their Payment Gateway Team.
-- Served as the *SDE and CO-Founder* for **Intoxicat** which is a venture recognised by NASSCOM Foundation.
+- Backend Developer at Jupiter Money
+- Former *SDE* at **Paytm** where I was a part of their Payment Gateway Team.
+- Served as the *SDE and Co-Founder* for **Intoxicat** which is a venture recognised by NASSCOM Foundation.
 - Former *Innovator* in **multiple Projects** for the IOT, Web and App based solutions.
 
 <br>
@@ -39,6 +39,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java"/></code>
+<code><img width="40px" src="https://icons8.com/icon/ZoxjA0jZDdFZ/kotlin" title="Kotlin"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/spring-logo.png" title="Spring-Boot"/></code>
 <code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
