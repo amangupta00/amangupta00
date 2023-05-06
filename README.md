@@ -82,10 +82,10 @@ I am a Tech and Coding enthusiast and a Software Developer based in Bangalore, I
  
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
-<code><a href="https://www.linkedin.com/in/aman-gupta-00/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
-<code><a href="https://www.instagram.com/themaker007/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:amangupta1029@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 <code><a href="https://linktr.ee/AmanGupta0"><img width="45px" src="https://img.icons8.com/color/2x/linktree.png" title="Linktree"/></a></code>
+<code><a href="https://www.linkedin.com/in/aman-gupta-00/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
+<code><a href="mailto:amangupta1029@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://www.instagram.com/themaker007/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 
 
 <br>
