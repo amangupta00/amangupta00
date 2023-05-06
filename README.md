@@ -11,14 +11,14 @@ You can click the Preview link to take a look at your changes.
  
  <h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="55px"> Heyo Guys, I'm Aman! </h1>
 
-I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I completed my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
+I am a Tech and Coding enthusiast and a Software Developer based in Bangalore, India. I completed my Bachelor of Engineering degree from Netaji Subhas Institute of Technology, New Delhi.
 
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- Backend Developer at Jupiter Money
+- Backend Developer at Jupiter.Money
 - Former *SDE* at **Paytm** where I was a part of their Payment Gateway Team.
-- Served as the *SDE and Co-Founder* for **Intoxicat** which is a venture recognised by NASSCOM Foundation.
+- Served as the *Developer(IC) and Co-Founder* for **Intoxicat** which is a venture recognised by NASSCOM Foundation.
 - Former *Innovator* in **multiple Projects** for the IOT, Web and App based solutions.
 
 <br>
