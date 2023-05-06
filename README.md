@@ -61,6 +61,8 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/2x/arduino.png" title="Arduino"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/redis.png" title="Redis"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/docker.png" title="Docker"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/kubernetes.png" title="Kubernetes"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/sql.png" title="Database"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/ibis-paint-x.png" title="IbisPaintX"/></code>
 
 
