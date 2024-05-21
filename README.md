@@ -1,8 +1,20 @@
 # 💫 About Me:
-🔭 I’m currently working on **Lending Management Systems**<br><br>🌱 I’m currently learning **Spring and Automation Built Tools**<br><br>👯 I’m looking to collaborate on **Payment Systems**<br><br>🤝 I’m looking for help with **Payment Systems**<br><br>📝 I regularly write articles on [<Need to create an online journal>](<Need to create an online journal>)<br><br>📫 How to reach me **amangupta1029@gmail.com**<br><br>📄 Know about my experiences [<Resume Link>](<Resume Link>)<br><br>⚡ Fun fact **I am Batman🦇**
+- 🔭 I’m currently working on **Lending Management Systems**
+
+- 🌱 I’m currently learning **Spring and Automation Built Tools**
+
+- 🤝 I’m looking for help and collaborate with **Payment Systems**
+
+- 📝 I regularly write articles on [dev.to](https://dev.to/amancodestuff)
+
+- 📫 How to reach me **amangupta1029@gmail.com**
+
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1OARv10EMp6Ofk-J8u1rlVI1hLmP1l3op/view?usp=drive_link)
+
+- ⚡ Fun fact **I am Batman 😄**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_man_gpt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-00) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TheMaker02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AManCodeStuff) 
 
 # 💻 Tech Stack:
